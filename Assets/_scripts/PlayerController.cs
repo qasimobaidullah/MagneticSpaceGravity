@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     public float pushForce = 10f;
     public float hoverForce = 5f;
     public float hoverHeight = 2f;
-    public float jumpForce = 5f;
+	private float jumpForce = 10f;
 	public bool canJump = true;
 	//this is joystick from assets store
     public FloatingJoystick variableJoystick;
