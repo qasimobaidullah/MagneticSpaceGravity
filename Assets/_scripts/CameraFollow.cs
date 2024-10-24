@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -22,7 +22,7 @@ public class CameraFollow : MonoBehaviour
 
     void LateUpdate()
     {
-        HandleRotationInput();
+	    //HandleRotationInput();
 
         Vector3 targetPosition = target.transform.position + offset;
         transform.position = Vector3.SmoothDamp(transform.position, targetPosition, ref veclocity, followSmoothTime);
