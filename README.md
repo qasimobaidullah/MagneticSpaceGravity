@@ -4,7 +4,7 @@
 ## Overview
 
 This Unity 3D project demonstrates player movement influenced by gravity and magnetism from light sources, with customizable parameters, joystick control, and a rolling-down hill effect prototype. The project focuses on dynamic player interactions using Unity physics components and allows users to visualize forces applied to the player body.
-
+https://rainbow-flamingo.itch.io/magnetize
 ### Key Features
 
 - **Player Movement**: Controlled through Unity's joystick input, allowing smooth movement on the x-axis with custom gravity.
