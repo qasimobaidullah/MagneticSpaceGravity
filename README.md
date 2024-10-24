@@ -91,3 +91,4 @@ The `ForceVisualisation.cs` script will display the gravitational and magnetic f
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+<img width="663" alt="Screenshot 2024-10-24 at 4 18 08 pm" src="https://github.com/user-attachments/assets/9ba7be73-cc3d-445e-8250-03abdad42f96">
