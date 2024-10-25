@@ -6,8 +6,8 @@ using UnityEngine;
 public class CameraFollow : MonoBehaviour
 {
 
-
-    public GameObject target;
+	
+     GameObject target;
     public Vector3 offset;
     public float followSmoothTime = 0.2f;
     public float rotationSpeed = 3f;
